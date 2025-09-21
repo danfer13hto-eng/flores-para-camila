@@ -74,7 +74,7 @@
       position: absolute;
       width: 40px;
       height: 40px;
-      background-image: url('https://i.ibb.co/3WJmdnC/yellow-flower.png');
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Yellow_Flower.png/600px-Yellow_Flower.png');
       background-size: cover;
       animation: float 10s linear infinite;
     }
@@ -105,10 +105,10 @@
 
   <div class="flowers" id="flores"></div>
 
-  <!-- Reproductor de YouTube oculto -->
+  <!-- Reproductor de YouTube oculto y en silencio -->
   <iframe 
     id="player" 
-    src="https://www.youtube.com/embed/wnJ6LuUFpMo?autoplay=1&loop=1&playlist=wnJ6LuUFpMo&controls=0&mute=0"
+    src="https://www.youtube.com/embed/wnJ6LuUFpMo?autoplay=1&loop=1&playlist=wnJ6LuUFpMo&controls=0&mute=1"
     allow="autoplay"
     frameborder="0"
     allowfullscreen
