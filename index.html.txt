@@ -91,7 +91,7 @@
     }
 
     iframe {
-      display: none; /* ocultamos el reproductor */
+      display: none;
     }
   </style>
 </head>
